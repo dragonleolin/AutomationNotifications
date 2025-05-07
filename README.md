@@ -122,3 +122,11 @@ Authentication: None（或 Basic）
         📢 PTT 省錢板有新消息！
             📰 {{ $json["title"] }}
             🔗 {{ $json["link"] }}
+
+## Step 3： 成功抓取省錢版資訊並送出
+
+![image](https://github.com/user-attachments/assets/4ccbe380-74c0-4310-be5d-b14a20af8836)
+
+![image](https://github.com/user-attachments/assets/0c62ec12-757f-4a93-961b-902a62ea9312)
+
+![image](https://github.com/user-attachments/assets/da6b7423-a60f-4a87-83a8-377e958a207b)
